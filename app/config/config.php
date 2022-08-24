@@ -1,9 +1,9 @@
 <?php
 // DB params
-define("DB_HOST","localhost:3308");
-define('DB_USER', 'root');
-define('DB_PASS', 'abdo1234');
-define("DB_NAME","shareposts");
+define("DB_HOST","localhost");
+define('DB_USER', 'ENTER YOU USERNAME');
+define('DB_PASS', 'ENTER YOU PASSWORD');
+define("DB_NAME","ENTER YOU DATABASE NAME");
 
 
 // App Route
